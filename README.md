@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=your-github-arnaou&abbreviated=true)
 ![GitHub followers](https://img.shields.io/github/followers/arnaou)
 
+
+
+<!--
+technology stack
+-->
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <h2 align="center">Language & Tools <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -28,12 +34,12 @@ Here are some ideas to get you started:
 
 
 
-
-
+<!--
+Github stats
+-->
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=arnaou&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&show_icons=true&rank_icon=github&card_width=300" />
 </a>
