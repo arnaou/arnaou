@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=your-github-arnaou&abbreviated=true)
-![GitHub followers](https://img.shields.io/github/followers/:user)
+![GitHub followers](https://img.shields.io/github/followers/arnaou)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
