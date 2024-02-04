@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 technology stack
 -->
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+
+<!--
+languages
+-->
 <h2 align="center">Language & Tools <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -52,4 +56,5 @@ Github stats
 <!--
 Github trophies
 -->
+<h2 align="center">Github Trophies <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnaou&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
