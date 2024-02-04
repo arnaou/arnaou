@@ -1,13 +1,8 @@
-[![MasterHead](your image link)](your GitHub link)
 
 
 
 
-
-
-
-
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there :wave:
 
 I am a postdoc
 <!--
