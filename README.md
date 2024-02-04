@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=your-github-arnaou&abbreviated=true)
 ![GitHub followers](https://img.shields.io/github/followers/arnaou)
-![Badge](https://visitor-counter-badge.vercel.app/api/arnaou/visitor-counter-badge?label=Hits&color=fc7695&labelColor=95abdb)
+
 
 
 <!--
