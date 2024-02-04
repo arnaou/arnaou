@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=your-github-arnaou)
+![](https://komarev.com/ghpvc/?username=your-github-arnaou&abbreviated=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
