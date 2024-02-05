@@ -7,7 +7,7 @@
 <img src="https://badges.pufler.dev/repos/arnaou"/>
 <img src="https://badges.pufler.dev/commits/monthly/arnaou"/>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{arnaou}1212%2Fhit-counter"/>
-<img src="https://img.shields.io/github/followers/arnaou?style=flat"&logo=-Followers/>
+<img src="https://img.shields.io/github/followers/arnaou?style=flat&logo=-followers&color=green"/>
 </p>
 
 ### Hi there :wave:
