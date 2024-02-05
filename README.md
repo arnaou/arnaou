@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--
 technology stack
 -->
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack :floppy_disk: </h2>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
