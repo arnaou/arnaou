@@ -41,7 +41,7 @@ technology stack
 -->
 <h2 align="center">Technology Stack :floppy_disk: </h2>
 
-<p align="center">
+<h2 align="center">
  
 ![Python](https://img.shields.io/badge/%20-Python-34567C?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-34567C?style=flat-square&logo=docker)
@@ -50,7 +50,7 @@ technology stack
 ![GitLab](https://img.shields.io/badge/-gitlab-34567C?logo=gitlab)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-34567C?&logo=pytorch)
 ![Julia](https://img.shields.io/badge/-Julia-34567C?&logo=julia)
-</p>
+</h2>
 
 <!--
 languages
