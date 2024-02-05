@@ -48,6 +48,7 @@ technology stack
 ![GitHub](https://img.shields.io/badge/-GitHub-34567C?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-gitlab-34567C?logo=gitlab)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-34567C?&logo=pytorch)
+![Julia](https://img.shields.io/badge/Julia-34567C?&logo=julia)
 </p>
 
 <!--
