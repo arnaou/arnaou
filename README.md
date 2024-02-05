@@ -81,7 +81,7 @@ Github stats
 </a>
 </h2>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnaou&theme=radical"/>
-
+</a>
 <!--
 Github trophies
 -->
