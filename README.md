@@ -80,7 +80,6 @@ Github stats
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaou&llangs_count=8&card_width=300&theme=radical" />
 </a>
 </h2>
-<img scr ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnaou&theme=radical"/>
 <!--
 Github trophies
 -->
