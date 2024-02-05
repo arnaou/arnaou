@@ -7,7 +7,6 @@
 <img src="https://badges.pufler.dev/repos/arnaou"/>
 <img src="https://badges.pufler.dev/commits/monthly/arnaou"/>
 <img src="https://badges.pufler.dev/commits/gists/arnaou"/>
-<img src="https://badges.pufler.dev/commits/gists/arnaou"/>
 </p>
 
 ### Hi there :wave:
