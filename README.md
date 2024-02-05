@@ -6,7 +6,9 @@
  <img src="https://badges.pufler.dev/visits/arnaou/arnaou"/> 
 <img src="https://badges.pufler.dev/years/arnaou"/>
  <img src="https://badges.pufler.dev/repos/arnaou"/>
- <img src="https://badges.pufler.dev/commits/monthly/arnaou" />
+ <img src="https://badges.pufler.dev/commits/monthly/arnaou"/>
+ <img src="https://badges.pufler.dev/commits/gists/arnaou"/>
+
 
 </p>
 
