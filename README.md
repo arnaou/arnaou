@@ -47,7 +47,7 @@ technology stack
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!--![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)-->
 ![GitLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C&logo=pytorch&logoColor=white)
 
 <!--
 languages
