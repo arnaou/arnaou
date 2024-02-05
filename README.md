@@ -40,15 +40,15 @@ Here are some ideas to get you started:
 technology stack
 -->
 <h2 align="center">Technology Stack :floppy_disk: </h2>
-<h2 align="center">
- 
+<p align="center">
+
 ![Python](https://img.shields.io/badge/%20-Python-34567C?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-34567C?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-34567C?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-34567C?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-gitlab-34567C?logo=gitlab)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-34567C?&logo=pytorch)
-</h2>
+</p>
 
 <!--
 languages
