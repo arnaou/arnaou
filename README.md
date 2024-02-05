@@ -10,7 +10,11 @@
 
 ### Hi there :wave:
 
-I am a postdoc
+</p>
+<!-- <p align="center">
+  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
+</p>   -->
+
 <!--
 **arnaou/arnaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
