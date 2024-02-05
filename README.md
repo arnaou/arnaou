@@ -2,14 +2,12 @@
 <img src="https://github.com/arnaou/arnaou/blob/main/images/banner.png" />
 
 <p align="center">
- 
  <img src="https://badges.pufler.dev/visits/arnaou/arnaou"/> 
 <img src="https://badges.pufler.dev/years/arnaou"/>
- <img src="https://badges.pufler.dev/repos/arnaou"/>
- <img src="https://badges.pufler.dev/commits/monthly/arnaou"/>
- <img src="https://badges.pufler.dev/commits/gists/arnaou"/>
-
-
+<img src="https://badges.pufler.dev/repos/arnaou"/>
+<img src="https://badges.pufler.dev/commits/monthly/arnaou"/>
+<img src="https://badges.pufler.dev/commits/gists/arnaou"/>
+<img src="https://badges.pufler.dev/commits/gists/arnaou"/>
 </p>
 
 ### Hi there :wave:
