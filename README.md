@@ -41,12 +41,12 @@ technology stack
 -->
 <h2 align="center">Technology Stack :floppy_disk: </h2>
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/gitlab-blue?logo=gitlab)
-![PyTorch](https://img.shields.io/badge/PyTorch-blue?&logo=pytorch)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-gitlab-blue?logo=gitlab)
+![PyTorch](https://img.shields.io/badge/-PyTorch-blue?&logo=pytorch)
 
 <!--
 languages
