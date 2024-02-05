@@ -75,5 +75,6 @@ Github stats
 Github trophies
 -->
 <h2 align="center">Github Trophies <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
+<h2 align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnaou&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+</h2>
