@@ -44,8 +44,7 @@ technology stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<!--![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)-->
+![GitHub](https://img.shields.io/badge/logo-GitHub-blue?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
 ![PyTorch](https://img.shields.io/badge/logo-PyTorch-blue?&logo=pytorch)
 
