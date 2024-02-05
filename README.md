@@ -51,7 +51,7 @@ technology stack
 ![PyTorch](https://img.shields.io/badge/-PyTorch-34567C?&logo=pytorch)
 ![Julia](https://img.shields.io/badge/-Julia-34567C?&logo=julia)
 ![Fortran](https://img.shields.io/badge/-Fortran-34567C.svg?&logo=fortran)
-![Matlab](https://img.shields.io/badge/-Matlab-34567C.svg?&logo=matlab)
+![Matlab](https://img.shields.io/badge/-Matlab-34567C.svg?&logo=mathworks)
 </h2>
 
 <!--
