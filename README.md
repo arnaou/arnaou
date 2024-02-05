@@ -57,7 +57,7 @@ technology stack
 
 <!--
 languages
--->
+
 <h2 align="center">Language & Tools :wrench: </h2>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -65,7 +65,7 @@ languages
 <a href="https://www.docker.com/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="docker" width="40" height="40"/> </a>  
 </p>
-
+-->
 
 
 <!--
