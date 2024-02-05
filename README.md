@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![](https://komarev.com/ghpvc/?username=your-github-arnaou&abbreviated=true)
 ![GitHub followers](https://img.shields.io/github/followers/arnaou)
-
+-->
 
 
 <!--
