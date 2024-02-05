@@ -50,6 +50,7 @@ technology stack
 ![GitLab](https://img.shields.io/badge/-gitlab-34567C?logo=gitlab)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-34567C?&logo=pytorch)
 ![Julia](https://img.shields.io/badge/-Julia-34567C?&logo=julia)
+![matlab compatible](https://img.shields.io/badge/matlab-compatible-lightgrey.svg)
 </h2>
 
 <!--
