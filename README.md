@@ -42,11 +42,11 @@ technology stack
 <h2 align="center">Technology Stack :floppy_disk: </h2>
 
 ![Python](https://img.shields.io/badge/%20-Python-#34567C?style=flat-square&logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-gitlab-blue?logo=gitlab)
-![PyTorch](https://img.shields.io/badge/-PyTorch-blue?&logo=pytorch)
+![Docker](https://img.shields.io/badge/-Docker-#34567C?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-#34567C?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-#34567C?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-gitlab-#34567C?logo=gitlab)
+![PyTorch](https://img.shields.io/badge/-PyTorch-#34567C?&logo=pytorch)
 
 <!--
 languages
