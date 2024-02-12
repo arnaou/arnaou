@@ -81,6 +81,7 @@ Github stats
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaou&llangs_count=8&card_width=300&theme=radical" />
 </a>
 </h2>
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaou&theme=radical&show_icons=true)
 <!--
 Github trophies
