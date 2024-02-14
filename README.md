@@ -14,7 +14,7 @@
 
 </p>
 <p align="center">
-  I'm a postodctoral researcher at the PROcess SYStems (PROSYS) engineering center at the Technical University of Denmark (DTU) :school:. My main research area are developping computational tools (mechanistic and data driven) for applications withing process systems engineering and applied thermodynamics :mag_right:.
+  I'm a postodctoral researcher at the PROcess SYStems (PROSYS) engineering center at the Technical University of Denmark (DTU) :school:. My main research areas are developping computational tools (mechanistic and data driven) for applications within process systems engineering and applied thermodynamics :mag_right:.
  I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor students👨🏻‍💻.
 </p> 
 
