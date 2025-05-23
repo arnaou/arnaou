@@ -14,8 +14,8 @@
 
 </p>
 <p align="center">
-  I'm a postodctoral researcher at the section of Autonomous Materials Discovery (AMD) at the Departmenet of Energy Conversion and Storage at the Technical University of Denmark (DTU) :school:. My main research areas are developping computational tools (mechanistic and data driven) for applications within process systems engineering, applied thermodynamics and molecular/material design :mag_right:.
- I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor students👨🏻‍💻.
+  I'm a postodctoral researcher at the section of Autonomous Materials Discovery (AMD) at the Department of Energy Conversion and Storage at the Technical University of Denmark (DTU) :school:. My main research areas are developping computational tools (mechanistic and data driven) for applications within process systems engineering, applied thermodynamics and molecular/material design :mag_right:.
+ I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to supervise and mentor students👨🏻‍💻.
 </p> 
 
 <!--
