@@ -13,11 +13,11 @@
 -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnaou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Years%20on%20GitHub-dynamic-blue?style=flat" alt="Years on GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/badge?username=arnaou&type=repositories&style=flat&color=blue" alt="Public repos" />
-  <img src="https://img.shields.io/github/commit-activity/m/arnaou/arnaou?style=flat&color=blue" alt="Monthly commits" />
-  <img src="https://komarev.com/ghpvc/?username=arnaou&label=Hits&color=green&style=flat" alt="Hit counter" />
+  <img src="https://komarev.com/ghpvc/?username=arnaou&label=Profile%20views&color=41bc13&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Years%20on%20GitHub-dynamic-41bc13?style=flat" alt="Years on GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/badge?username=arnaou&type=repositories&style=flat&color=41bc13" alt="Public repos" />
+  <img src="https://img.shields.io/github/commit-activity/m/arnaou/arnaou?style=flat&color=41bc13" alt="Monthly commits" />
+  <img src="https://komarev.com/ghpvc/?username=arnaou&label=Hits&color=41bc13&style=flat" alt="Hit counter" />
   <img src="https://img.shields.io/github/followers/arnaou?style=flat&logo=github&color=41bc13" alt="Followers" />
 </p>
 
