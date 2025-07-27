@@ -13,17 +13,12 @@
 -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnaou&color=brightgreen" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/arnaou?style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/arnaou?style=social" alt="Stars"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnaou&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnaou&theme=radical" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=arnaou&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/account-age/arnaou?style=flat&color=blue" alt="Account age" />
+  <img src="https://img.shields.io/github/repos/arnaou?style=flat&color=blue" alt="Public repos" />
+  <img src="https://img.shields.io/github/last-commit/arnaou/arnaou?style=flat&color=blue" alt="Last commit" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arnaou.arnaou&format=true&color=00cf00" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/arnaou?style=flat&logo=github&color=41bc13" alt="Followers" />
 </p>
 
 ### Hi there :wave:
