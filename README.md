@@ -1,6 +1,7 @@
 </p align="center">
 <img src="https://github.com/arnaou/arnaou/blob/main/images/banner.png" />
 
+<!--
 <p align="center">
  <img src="https://badges.pufler.dev/visits/arnaou/arnaou"/> 
 <img src="https://badges.pufler.dev/years/arnaou"/>
@@ -8,6 +9,21 @@
 <img src="https://badges.pufler.dev/commits/monthly/arnaou"/>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{arnaou}%2Fhit-counter"/>
 <img src="https://img.shields.io/github/followers/arnaou?style=flat&logo=-followers&color=#41bc13"/>
+</p>
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnaou&color=brightgreen" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/arnaou?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/arnaou?style=social" alt="Stars"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnaou&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnaou&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ### Hi there :wave:
