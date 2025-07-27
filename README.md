@@ -6,8 +6,8 @@
 <img src="https://badges.pufler.dev/years/arnaou"/>
 <img src="https://badges.pufler.dev/repos/arnaou"/>
 <img src="https://badges.pufler.dev/commits/monthly/arnaou"/>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{arnaou}1212%2Fhit-counter"/>
-<img src="https://img.shields.io/github/followers/arnaou?style=flat&logo=-followers&color=#41bc13"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farnaou%2Farnaou%2Fhit-counter"/>
+<img src="https://img.shields.io/github/followers/arnaou?style=flat&logo=github&color=41bc13"/>
 </p>
 
 ### Hi there :wave:
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-![](https://komarev.com/ghpvc/?username=your-github-arnaou&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=arnaou&abbreviated=true)
 ![GitHub followers](https://img.shields.io/github/followers/arnaou)
 -->
 
@@ -78,7 +78,7 @@ Github stats
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=arnaou&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&show_icons=true&rank_icon=github&card_width=300&no-bg=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaou&llangs_count=8&card_width=300&theme=radical" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaou&langs_count=8&card_width=300&theme=radical" />
 </a>
 </h2>
 
